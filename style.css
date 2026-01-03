@@ -1,0 +1,12 @@
+  *{
+    padding: 0px 10px;
+    margin: 0;
+  }
+  
+  
+  .nav{
+    /* background: #000;: black !important; */
+/* display: flex; */
+justify-content:  space-around;
+}
+
