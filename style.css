@@ -1,6 +1,7 @@
   *{
     padding: 0px 10px;
     margin: 0;
+    /* background:#F5FCFF; */
   }
   
   
@@ -9,4 +10,11 @@
 /* display: flex; */
 justify-content:  space-around;
 }
-
+.by{
+  background:#F5FCFF !important;
+}
+.my{
+  display: flex;
+  flex-direction: column;
+  /* gap: 60px; */
+}
