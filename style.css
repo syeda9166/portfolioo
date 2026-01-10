@@ -18,3 +18,16 @@ justify-content:  space-around;
   flex-direction: column;
   /* gap: 60px; */
 }
+.gallery {
+  background-color:
+  #F5FCFF ;
+  outline: 20px solid 0px 10px 0px 10px !important;
+  display: flex !important;
+  flex-direction: column !important;
+justify-content: space-around !important;
+  /* gap: 60px; */
+}
+.link a{
+  /* text-decoration: none; */
+  color: black !important;
+}
